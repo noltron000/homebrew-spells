@@ -1,31 +1,29 @@
 # Resistance
 
-- [ ] Homebrew
+- [x] Homebrew
 
-***0th-level abjuration***
+***0th-level divination***
 
 **Casting Time:** action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** touch
 
 **Tags:** verbal, somatic, material, concentration
 
-**Material Components:** a miniature cloak
+**Material Components:** a miniature shield or cloak
 
 ---
 
 ## Description
 You touch one willing creature.
-Once before the spell ends, the target can roll a `d4` and add the number rolled to one Saving Throw of its choice.
-It can roll the die before or after making the Saving Throw.
-The spell then ends.
+A soft light bathes the target for a moment, granting a plus `1d4` bonus to its Saving Throws for the duration.
 
 ---
 
-**Classes:** cleric, druid, artificer (revisited)
-
-**Subclasses:** giant soul (ua) sorcerer
+**Classes:** cleric, druid, paladin, artificer
 
 **Sources:** PHB, page 272
+
+**Quality Assurance:** :star2: consistency pass

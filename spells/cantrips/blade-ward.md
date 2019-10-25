@@ -1,25 +1,29 @@
 # Blade Ward
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level abjuration***
 
 **Casting Time:** action
 
-**Duration:** 1 round
+**Duration:** 5 minutes
 
 **Range:** self
 
-**Tags:** verbal, somatic
+**Tags:** somatic, concentration
 
 ---
 
 ## Description
 You extend your hand and trace a sigil of warding in the air.
-Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by Weapon Attacks.
+You have resistance against bludgeoning, piercing, and slashing damage for the spell's duration.
+
+If this spell ends on your turn, its effects linger until the end of your turn.
 
 ---
 
 **Classes:** bard, sorcerer, warlock, wizard
 
 **Sources:** PHB, page 218
+
+**Quality Assurance:** :star2: consistency pass
