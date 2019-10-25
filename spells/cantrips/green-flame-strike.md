@@ -1,14 +1,14 @@
-# Green-Flame Blade
+# Green-Flame Strike
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level evocation***
 
-**Casting Time:** action
+**Casting Time:** bonus action
 
-**Duration:** instantaneous
+**Duration:** 1 round
 
-**Range:** 5 feet
+**Range:** self
 
 **Tags:** verbal, material
 
@@ -17,16 +17,22 @@
 ---
 
 ## Description
-As part of the action used to cast this spell, you must make a Melee Attack with a weapon against one creature within the spell's range, otherwise the spell fails.
-On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it.
-The second creature takes fire damage equal to your spellcasting ability modifier.
+Choose a weapon that you are holding.
+The weapon is shrouded in green, flaming energy until the end of your next turn.
+The first time you make an attack using this weapon before then, it unleashes its burning energy upon your target, and the spell ends.
+If the attack hits, it deals an extra `2d4` fire damage in addition to the weapon's normal damage and effects.
 
-This spell's damage increases when you reach higher levels.
-At 5th level, the Melee Attack deals an extra `1d8` fire damage to the target, and the fire damage to the second creature increases to `1d8` + your spellcasting ability modifier.
-Both damage rolls increase by `1d8` at 11th level and 17th level.
+If you roll the same numbers on both `d4`s, the flaming energy leaps from the target to a different creature of your choice within 5 feet of it.
+Make a new Melee Weapon Attack against the new target, and make a new damage roll, which could cause the flaming energy to leap again.
+The weapon's normal damage and effects only apply to the first target.
+A creature can be targeted only once by each casting of this spell.
+
+If you let go of the weapon, its charm dissipates, and the spell ends.
 
 ---
 
 **Classes:** sorcerer, warlock, wizard
 
 **Sources:** SCAG, page 143
+
+**Quality Assurance:** :star: personal pass

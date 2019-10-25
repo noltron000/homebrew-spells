@@ -1,31 +1,39 @@
 # Magic Stone
 
-- [ ] Homebrew
+- [x] Homebrew
 
 ***0th-level transmutation***
 
 **Casting Time:** bonus action
 
-**Duration:** 1 minute
+**Duration:** 5 minutes
 
 **Range:** touch
 
-**Tags:** verbal, somatic
+**Tags:** verbal, somatic, material
+
+**Material Components:** three stones
 
 ---
 
 ## Description
-You touch one to three pebbles and imbue them with magic.
-You or someone else can make a Ranged Spell Attack with one of the pebbles by throwing it or hurling it with a sling.
-If thrown, a pebble has a range of 60 feet.
-If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker's, to the Attack Roll.
-On a hit, the target takes bludgeoning damage equal to `1d6` + your spellcasting ability modifier.
-Whether the attack hits or misses, the spell then ends on the stone.
+You touch three stones and imbue them with magic.
+A stone's magic lasts for the duration.
+You or someone else can take a stone and use it in a Weapon Attack.
+If used as a sort of cudgel, a stone acts as an improvised weapon.
+If used as ammunition, it can be used normally with a sling or a similar weapon that hurls stones.
+In either case, an attack with a magic stone has the following properties:
+- A magic stone deals magical bludgeoning damage.
+- Attacks with a magic stone have a magical bonus to attack and damage rolls equal to half your spellcasting ability modifier (rounded down).
 
-If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
+The magic on a stone dissipates after it is used in an attack.
+The spell ends when there are no more stones affected by its magic, or if you cast it again.
+You can dismiss the magic on any number of stones at any time (no action required).
 
 ---
 
-**Classes:** druid, warlock, artificer (revisited)
+**Classes:** druid, warlock, artificer
 
 **Sources:** XGE, page 160
+
+**Quality Assurance:** :star: personal pass
